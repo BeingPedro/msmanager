@@ -9,6 +9,8 @@ The main idea for this application is make a measuring and data logger system th
 It's just the begin, maybe it could be bigger some day. So, you could help me!
   
 NOTE: I used PHP as my first language... I want to change it to RoR o NodeJS coming soon. 
+      Visit http://tesis-prueba.hol.es/proyecto-tesis-NUBE/ to see the prototype 
+      User and PW: admin
 
 BTW *Nice 2 meet you!* 
 
@@ -22,6 +24,8 @@ La idea principal de esta aplicación es hacer un sistema de medición y adquisi
 Es sólo el comienzo, tal vez podría algo grande algún día. Asi que, podrías ayudarme!
   
 NOTA: Utilice PHP como primer lenguaje... quiero cambiarlo a RoR o NodeJS pronto.
+      Visita http://tesis-prueba.hol.es/proyecto-tesis-NUBE/ para ver el prototipo
+      Usuario y PW: admin
 
 Por cierto *Un gusto conocerte!*
 
