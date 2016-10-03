@@ -15,7 +15,7 @@ It's just the begin, maybe it could be bigger some day. So, you could help me!
 
 BTW, *Nice 2 meet you!* 
 
-Español: Gestor del Sistema de Medición
+Español: <h3>Gestor del Sistema de Medición</h3>
 
 Hola, mi nombre es Pedro, tengo 23 años, ingeniero eléctricista y desarrollador web.
 Estoy trabajando en una aplicación basada en software como servicio, usando Arduino para medir la temperatura en procesos industriales.
