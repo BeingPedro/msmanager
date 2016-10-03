@@ -14,7 +14,7 @@ NOTE: I used PHP as my first language... I want to change it to RoR o NodeJS com
 
       User and PW: admin
 
-BTW *Nice 2 meet you!* 
+BTW, *Nice 2 meet you!* 
 
 Español: Gestor del Sistema de Medición
 
@@ -30,5 +30,5 @@ NOTA: Utilice PHP como primer lenguaje... quiero cambiarlo a RoR o NodeJS pronto
       Visita http://tesis-prueba.hol.es/proyecto-tesis-NUBE/ para ver el prototipo
       Usuario y PW: admin
 
-Por cierto *Un gusto conocerte!*
+Por cierto, *Un gusto conocerte!*
 
