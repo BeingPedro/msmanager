@@ -5,7 +5,7 @@ REALIZAR LA CONEXION A LA BASE DE DATOS*/
 
 //Se hace la conexión a la BBDD ingresando: Host, Usuario, Contraseña, Nombre BBDD
 		
-$enlace = mysqli_connect("localhost", "root", "123456", "temp") ;
+$enlace = mysqli_connect("localhost", "****", "******", "temp") ;
 
 if (mysqli_connect_errno()){ 	//En caso de generarse algún error se impreme BBDD OFF 
 	
