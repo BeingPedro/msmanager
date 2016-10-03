@@ -23,5 +23,5 @@ Es sólo el comienzo, tal vez podría algo grande algún día. Asi que, podrías
   
 NOTA: Utilice PHP como primer lenguaje... quiero cambiarlo a RoR o NodeJS pronto.
 
-Por cierto * Un gusto conocerte!*
+Por cierto *Un gusto conocerte!*
 
