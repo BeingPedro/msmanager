@@ -26,6 +26,7 @@ La idea principal de esta aplicación es hacer un sistema de medición y adquisi
 Es sólo el comienzo, tal vez podría algo grande algún día. Asi que, podrías ayudarme!
   
 NOTA: Utilice PHP como primer lenguaje... quiero cambiarlo a RoR o NodeJS pronto.
+
       Visita http://tesis-prueba.hol.es/proyecto-tesis-NUBE/ para ver el prototipo
       Usuario y PW: admin
 
