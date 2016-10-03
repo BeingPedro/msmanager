@@ -11,7 +11,6 @@ It's just the begin, maybe it could be bigger some day. So, you could help me!
 NOTE: I used PHP as my first language... I want to use RoR or NodeJS coming soon.
 
       Visit http://tesis-prueba.hol.es/proyecto-tesis-NUBE/ to see the prototype.
-
       User and PW: admin
 
 BTW, *Nice 2 meet you!* 
