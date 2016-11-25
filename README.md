@@ -22,7 +22,7 @@ Estoy trabajando en una aplicación basada en software como servicio, usando Ard
 
 La idea principal de esta aplicación es hacer un sistema de medición y adquisición de datos que ayude a los usuarios a tomar datos (temperatura) de los procesos en tiempo real que luego podrían utilizar para realizar trabajos técnicos.
 
-Es sólo el comienzo, tal vez podría algo grande algún día. Asi que, podrías ayudarme!
+Es sólo el comienzo, quizás sea algo grande algún día. Asi que, podrías ayudarme!
   
 <b>NOTA</b>: Utilice PHP como primer lenguaje... quiero utilizar RoR o NodeJS pronto.
 
